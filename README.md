@@ -23,3 +23,5 @@ WebGL (RefRes: 1280x720 HD-720p)
 ### Lessons Learned
 
 TODO
+
+Copyright by Richard Gerum
